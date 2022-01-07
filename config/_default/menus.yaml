@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 36ecec01-b876-b150-d270-a2b377b86496
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: b1d91723-9999-ec9b-fa2c-667170ee907f
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 11c12d59-da57-ebd6-ceaf-4645dacef821
+  name: Lectures and Readings
+  url: /pages/lectures-and-readings
+  weight: 30
+- identifier: f11a2317-b743-6a99-1bfb-fd047b44a018
+  name: Assignments
+  url: /pages/assignments/
+  weight: 40
+- identifier: ee352209-b1e6-90b9-83e8-9111214120dd
+  name: Clinical Databases
+  parent: f11a2317-b743-6a99-1bfb-fd047b44a018
+  url: /pages/assignments/assn1
+  weight: 50
+- identifier: c2b98f59-ec34-8a3e-d95d-618476126a21
+  name: Extracting Meaning from Text
+  parent: f11a2317-b743-6a99-1bfb-fd047b44a018
+  url: /pages/assignments/assn2
+  weight: 60
+- identifier: d2f52a94-ff1b-3fc1-d791-706b70a4281e
+  name: Gene Expression and Mathematical Foundations
+  parent: f11a2317-b743-6a99-1bfb-fd047b44a018
+  url: /pages/assignments/assn3
+  weight: 70
